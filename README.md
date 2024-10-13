@@ -36,8 +36,21 @@ What you put after `status_command` in `bar` block
   ![language](https://img.shields.io/github/languages/top/minos-org/dzen2) ![stars](https://img.shields.io/github/stars/minos-org/dzen2?style=social)
 - [xmobar](https://codeberg.org/xmobar/xmobar): minimalist status bar
   ![language](https://img.shields.io/github/languages/top/xmobar/xmobar) ![stars](https://img.shields.io/github/stars/xmobar/xmobar?style=social)
+- [i3-style](https://github.com/altdesktop/i3-style): themes and switcher
 
 ## Helper
+
 - [Online Colorscheme Configurator for i3, i3status,
-  dmenu](https://thomashunter.name/i3-configurator/): Easily preview changes
+  dmenu](https://thomashunter.name/i3-configurator/): easily preview changes
   in colors
+
+### Showing keybinds
+
+- [i3-keylist](https://github.com/s-n-g/i3-keylist): display key list
+  ![language](https://img.shields.io/github/languages/top/s-n-g/i3-keylist) ![stars](https://img.shields.io/github/stars/s-n-g/i3-keylist?style=social)
+- [i3keys](https://github.com/RasmusLindroth/i3keys): list available bindings
+  for i3/Sway with graphical or text keyboard
+  ![language](https://img.shields.io/github/languages/top/RasmusLindroth/i3keys) ![stars](https://img.shields.io/github/stars/RasmusLindroth/i3keys?style=social)
+- [i3help](https://github.com/glennular/i3help): dialog to view key bindings
+  ![language](https://img.shields.io/github/languages/top/glennular/i3help) ![stars](https://img.shields.io/github/stars/glennular/i3help?style=social)
+
