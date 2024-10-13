@@ -35,8 +35,12 @@ What you put after `status_command` in `bar` block
   notification and menuing program for X11
   ![language](https://img.shields.io/github/languages/top/minos-org/dzen2) ![stars](https://img.shields.io/github/stars/minos-org/dzen2?style=social)
 - [xmobar](https://codeberg.org/xmobar/xmobar): minimalist status bar
-  ![language](https://img.shields.io/github/languages/top/xmobar/xmobar) ![stars](https://img.shields.io/github/stars/xmobar/xmobar?style=social)
+
+
+## Themes and Switchers
 - [i3-style](https://github.com/altdesktop/i3-style): themes and switcher
+  ![language](https://img.shields.io/github/languages/top/altdesktop/i3-style) ![stars](https://img.shields.io/github/stars/altdesktop/i3-style?style=social)
+
 
 ## Helper
 
