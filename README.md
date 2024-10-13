@@ -1,4 +1,5 @@
 ## i3 Bars
+
 ### i3 Bar Status Command
 What you put after `status_command` in `bar` block
 
@@ -58,3 +59,57 @@ What you put after `status_command` in `bar` block
 - [i3help](https://github.com/glennular/i3help): dialog to view key bindings
   ![language](https://img.shields.io/github/languages/top/glennular/i3help) ![stars](https://img.shields.io/github/stars/glennular/i3help?style=social)
 
+
+## Libraries for Building Tools
+Libraries using IPC to interact with i3 (sometimes compatible with sway)
+
+- [go-i3](https://github.com/i3/go-i3): Go library (official)
+- [i3ips-glib](https://github.com/altdesktop/i3ipc-glib): C interface library
+  ![language](https://img.shields.io/github/languages/top/altdesktop/i3ipc-glib) ![stars](https://img.shields.io/github/stars/altdesktop/i3ipc-glib?style=social)
+- [i3ipc-python](https://github.com/altdesktop/i3ipc-python): Python library for
+  i3/sway
+  ![language](https://img.shields.io/github/languages/top/altdesktop/i3ipc-python) ![stars](https://img.shields.io/github/stars/altdesktop/i3ipc-python?style=social)
+- [node-i3](https://github.com/sidorares/node-i3): node.js library
+  ![language](https://img.shields.io/github/languages/top/sidorares/node-i3) ![stars](https://img.shields.io/github/stars/sidorares/node-i3?style=social)
+- [i3ipc-rs](https://github.com/tmerr/i3ipc-rs): Rust library
+  ![language](https://img.shields.io/github/languages/top/tmerr/i3ipc-rs) ![stars](https://img.shields.io/github/stars/tmerr/i3ipc-rs?style=social)
+
+
+## Launchers and Switchers
+Not i3/sway specific but useful
+
+- [dmenu](https://git.suckless.org/dmenu): menu to launch applications and more
+- [rofi](https://github.com/davatorium/rofi): window switcher, application
+  launcher, dmenu replacement
+  ![language](https://img.shields.io/github/languages/top/davatorium/rofi) ![stars](https://img.shields.io/github/stars/davatorium/rofi?style=social)
+- [i3-dmenu-desktop](https://github.com/i3/i3/blob/next/i3-dmenu-desktop): run
+  .desktop files with dmenu
+- [j4-dmenu-desktop](https://github.com/enkore/j4-dmenu-desktop): aims to be
+  faster than i3-dmenu-desktop
+  ![language](https://img.shields.io/github/languages/top/enkore/j4-dmenu-desktop) ![stars](https://img.shields.io/github/stars/enkore/j4-dmenu-desktop?style=social)
+- [raiseorlaunch](https://github.com/open-dynaMIX/raiseorlaunch):
+  run-or-raise-application launcher
+  ![language](https://img.shields.io/github/languages/top/open-dynaMIX/raiseorlaunch) ![stars](https://img.shields.io/github/stars/open-dynaMIX/raiseorlaunch?style=social)
+- [i3menu](https://github.com/giacomos/i3menu): Based on rofi and dmenu
+  ![language](https://img.shields.io/github/languages/top/giacomos/i3menu) ![stars](https://img.shields.io/github/stars/giacomos/i3menu?style=social)
+- [i3-individual-workspace-actions](https://github.com/realestninja/i3-individual-workspace-actions):
+  Use same keybinding for different actions depending on active workspace
+  ![language](https://img.shields.io/github/languages/top/realestninja/i3-individual-workspace-actions) ![stars](https://img.shields.io/github/stars/realestninja/i3-individual-workspace-actions?style=social)
+
+
+## Compositor
+X11 specific not i3 specific to enable transparency, shadows, animations, blur,
+and other effects depending on the compositor.
+
+- [picom](https://github.com/yshui/picom): lightweight compositor
+  ![language](https://img.shields.io/github/languages/top/yshui/picom) ![stars](https://img.shields.io/github/stars/yshui/picom?style=social)
+
+
+## Configuration Examples
+Repositories with example configurations. You should not just copy everything
+from them. Look at them as a reference and inspiration to make your own
+configuration.
+
+- [i3wm-configuration](https://github.com/vincentbernat/i3wm-configuration):
+  With accompanying [blog post](https://vincent.bernat.ch/en/blog/2021-i3-window-manager)
+- [dotfiles from Fabian Untermoser](https://gitlab.com/FabianUntermoser/dot-files/-/tree/master/i3): i3 dotfiles and scripts
