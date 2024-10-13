@@ -36,3 +36,8 @@ What you put after `status_command` in `bar` block
   ![language](https://img.shields.io/github/languages/top/minos-org/dzen2) ![stars](https://img.shields.io/github/stars/minos-org/dzen2?style=social)
 - [xmobar](https://codeberg.org/xmobar/xmobar): minimalist status bar
   ![language](https://img.shields.io/github/languages/top/xmobar/xmobar) ![stars](https://img.shields.io/github/stars/xmobar/xmobar?style=social)
+
+## Helper
+- [Online Colorscheme Configurator for i3, i3status,
+  dmenu](https://thomashunter.name/i3-configurator/): Easily preview changes
+  in colors
