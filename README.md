@@ -8,7 +8,8 @@ this repository akin to [awesome
 lists](https://github.com/sindresorhus/awesome). At this time I violate at least
 one of the
 [major](https://github.com/sindresorhus/awesome/blob/main/awesome.md#only-awesome-is-awesome)
-points in the Awesome Manifesto.
+points in the Awesome Manifesto. I also did not go through [this long
+list](https://gist.github.com/budRich/23f8165ce1821edd4dc27f9fc3f820d6)
 
 This list is not (fully) vetted and I do not endorse ~any~ most of the tools. I
 did not test all of them. Tough I did use some of them — some even on a daily
@@ -17,6 +18,7 @@ include it in the list.
 
 If you find a new tool or find that a tool from the list is broken and
 unmaintained please open an issue or pull request.
+
 
 ## Information Fetcher
 Show/View some parts of i3.
@@ -77,17 +79,48 @@ behave.
 ### Workspace
 Tools that focus, move, or resize a workspace.
 
--
+- [i3empty](https://github.com/roguh/i3empty): open a new numbered workspace
+  (also see i3-open-next-ws)
+- [i3-renameworkspace](https://github.com/mh21/i3-renameworkspaces): Rename
+  workspace to programs running in it
+- [i3-workspace-rename](https://github.com/Syphdias/i3-workspace-rename): Rename
+  and color workspace names (usage with rofi sensible)
+- [i3-workspace-groups](https://github.com/infokiller/i3-workspace-groups):
+  Collection of scripts to manage workspace groups
+- [i3-ws-tool](https://github.com/jolange/i3-ws-tool): handle, manipulate, and
+  modify workspaces
+- [wsmgr-for-i3](https://github.com/stapelberg/wsmgr-for-i3): Go GTK3 program to
+  manage workspaces
+- [xfce4-i3-workspaces-plugin](https://github.com/denesb/xfce4-i3-workspaces-plugin):
+  workspace switcher plugin for xfce4-panel
+- [i3-wk-switch](https://github.com/tmfink/i3-wk-switch): switch workspace like
+  xmonad
+- [i3_workspaces](https://github.com/Chimrod/i3_workspaces): configure
+  workspace, commands on focus (e.g. for custom background)
 
 ### Container/Window
 Tools that focus, move, or resize a container/window.
 
--
+- [i3-open-next-ws](https://github.com/JohnDowson/i3-open-next-ws): Move window
+  to the next empty workspace (also see i3empty)
+- [i3gopher](https://github.com/quite/i3gopher): Focus last window
+- [i3-valet](https://github.com/sophacles/i3-valet): Collection of tools for
+  window, workspace, and output operations
+- [i3-swap](https://github.com/Syphdias/i3-swap): Swap two containers (useful
+  for switching main window with ones on the side)
+- [i3-rofi-mark](https://github.com/talwrii/i3-rofi-mark): Mark and select
+  windows
+- [i3-automark](https://github.com/lincheney/i3-automark): Auto mark windows
+- [wmfocus](https://github.com/svenstaro/wmfocus): Visually focus window by
+  label
+- [xfce4-i3-window-title-plugin](https://github.com/carmelopellegrino/xfce4-i3-window-title-plugin):
+  i3wm-aware xfce4-panel plugin
 
-### Workspace and Container/Window
-Tools that focus, move, or resize a workspace or container/window.
+### Floating Windows
+Tools that focus, move, or resize a container/window in floating mode
 
-- [i3-tools](https://github.com/miseran/i3-tools): 
+- [i3-scratchpad](https://gitlab.com/aquator/i3-scratchpad): swiss army knife of
+  floating windows
 
 
 ## i3 Bars
@@ -188,6 +221,16 @@ Not i3/sway specific but useful
 - [i3-individual-workspace-actions](https://github.com/realestninja/i3-individual-workspace-actions):
   Use same keybinding for different actions depending on active workspace
   ![language](https://img.shields.io/github/languages/top/realestninja/i3-individual-workspace-actions) ![stars](https://img.shields.io/github/stars/realestninja/i3-individual-workspace-actions?style=flat)
+- [quickswitch-for-i3](https://github.com/OliverUv/quickswitch-for-i3): change
+  and locate windows
+- [alttab](https://github.com/sagb/alttab): minimalistic window switcher
+- [i3-alt-tab.py](https://github.com/yoshimoto/i3-alt-tab.py): cycle through
+  windows
+- [i3-switch-tabs](https://github.com/nikola-kocic/i3-switch-tabs): cycle
+  through tabbed windows
+- [i3-easyfocus](https://github.com/cornerman/i3-easyfocus): focus and select
+  windows by pressing a letter that labels the windows
+- [i3-back](https://github.com/Cretezy/i3-back): Focus last focused window
 
 
 ## Programs to use with i3
@@ -199,6 +242,12 @@ Programs that only lightly interact with i3
 - `xprop`: show attributes of window for example class to write window rules
 - [i3-volume](https://github.com/hastinbe/i3-volume): volume control with
   on-screen display notification
+- [i3-autopause-screenkey](https://github.com/Syphdias/i3-autopause-screenkey):
+  automatically start and stop screenkey to not leak information
+- [i3b](https://github.com/DMBuce/i3b): Various tools
+- [i3-tools](https://github.com/miseran/i3-tools): Various scripts
+- [i3-extras](https://github.com/ashinkarov/i3-extras): Various tools and
+  patches
 
 
 ## Configuration Examples
@@ -209,3 +258,27 @@ configuration.
 - [i3wm-configuration](https://github.com/vincentbernat/i3wm-configuration):
   With accompanying [blog post](https://vincent.bernat.ch/en/blog/2021-i3-window-manager)
 - [dotfiles from Fabian Untermoser](https://gitlab.com/FabianUntermoser/dot-files/-/tree/master/i3): i3 dotfiles and scripts
+- [dopamine](https://github.com/EllaTheCat/dopamine),
+  [dopamine-2020](https://github.com/EllaTheCat/dopamine-2020),
+  [dopamine-2022](https://github.com/EllaTheCat/dopamine-2022),
+  [dopamine-2024](https://github.com/EllaTheCat/dopamine-2024),
+  [i3-parkinson](https://github.com/EllaTheCat/i3-parkinson): Various tools
+  around accessibility software especially Parkinson's Disease
+
+
+## Irrelevant
+Things that might have been useful in the past and no longer are, or some things
+that are broken but might still be useful for inspiration.
+
+- [j4-make-config](https://github.com/okraits/j4-make-config) (**archived**):
+  Theme switcher. Can now be more easily achieved with [include
+  directive](https://i3wm.org/docs/userguide.html#include).
+- [autotiling-rs](https://github.com/ammgws/autotiling-rs): only sway, limited
+  in functionality compared to nwg-piotr/autotiling
+- [i3wl](https://github.com/carmelopellegrino/i3wl): window list applet (python2->broken)
+
+
+## Known Issues
+
+- Include Badge for last commit? At least year?
+- Missing language/star badges
