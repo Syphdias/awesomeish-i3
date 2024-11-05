@@ -219,6 +219,7 @@ What you put after `status_command` in `bar` block
 Libraries using IPC to interact with i3 (sometimes compatible with sway)
 
 - [go-i3](https://github.com/i3/go-i3): Go library (official)
+  ![language](https://img.shields.io/github/languages/top/i3/go-i3) ![stars](https://img.shields.io/github/stars/i3/go-i3?style=flat)
 - [i3ips-glib](https://github.com/altdesktop/i3ipc-glib): C interface library
   ![language](https://img.shields.io/github/languages/top/altdesktop/i3ipc-glib) ![stars](https://img.shields.io/github/stars/altdesktop/i3ipc-glib?style=flat)
 - [i3ipc-python](https://github.com/altdesktop/i3ipc-python): Python library for
