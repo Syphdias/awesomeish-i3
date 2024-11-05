@@ -62,6 +62,7 @@ behave.
   ![language](https://img.shields.io/github/languages/top/chlyz/i3ipc-dynamic-tiling) ![stars](https://img.shields.io/github/stars/chlyz/i3ipc-dynamic-tiling?style=flat)
 - [autotiling](https://github.com/nwg-piotr/autotiling): change split of current
   container depending on ratio of width to height
+  ![language](https://img.shields.io/github/languages/top/nwg-piotr/autotiling) ![stars](https://img.shields.io/github/stars/nwg-piotr/autotiling?style=flat)
 - [i3-alternating-layout](https://github.com/olemartinorg/i3-alternating-layout):
   Very similar to autotiling, similar behavior based on ratio (not actually
   alternating), limited configuration
