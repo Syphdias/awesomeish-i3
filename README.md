@@ -56,65 +56,90 @@ behave.
 
 - [i3-master-layout](https://github.com/Hippo0o/i3-master-layout):
   master-stack/split/tabbed layout, master always on left
+  ![language](https://img.shields.io/github/languages/top/Hippo0o/i3-master-layout) ![stars](https://img.shields.io/github/stars/Hippo0o/i3-master-layout?style=flat)
 - [i3ipc-dynamic-tiling](https://github.com/chlyz/i3ipc-dynamic-tiling): similar
   tiling to swm and xmonad
+  ![language](https://img.shields.io/github/languages/top/chlyz/i3ipc-dynamic-tiling) ![stars](https://img.shields.io/github/stars/chlyz/i3ipc-dynamic-tiling?style=flat)
 - [autotiling](https://github.com/nwg-piotr/autotiling): change split of current
   container depending on ratio of width to height
 - [i3-alternating-layout](https://github.com/olemartinorg/i3-alternating-layout):
   Very similar to autotiling, similar behavior based on ratio (not actually
   alternating), limited configuration
+  ![language](https://img.shields.io/github/languages/top/olemartinorg/i3-alternating-layout) ![stars](https://img.shields.io/github/stars/olemartinorg/i3-alternating-layout?style=flat)
 - [i3-autolayout](https://github.com/BiagioFesta/i3-autolayout): Similar to
   autotiling and i3-alternateing-layout, can save and restore layouts, limited
   configuration
+  ![language](https://img.shields.io/github/languages/top/BiagioFesta/i3-autolayout) ![stars](https://img.shields.io/github/stars/BiagioFesta/i3-autolayout?style=flat)
 - [i3nator](https://github.com/pitkley/i3nator): Tmuxinator for i3, manage
   projects and restore them
+  ![language](https://img.shields.io/github/languages/top/pitkley/i3nator) ![stars](https://img.shields.io/github/stars/pitkley/i3nator?style=flat)
 - [i3-resurrect](https://github.com/JonnyHaystack/i3-resurrect): save and
   restore layouts
+  ![language](https://img.shields.io/github/languages/top/JonnyHaystack/i3-resurrect) ![stars](https://img.shields.io/github/stars/JonnyHaystack/i3-resurrect?style=flat)
 - [i3-layout-manager](https://github.com/klaxalk/i3-layout-manager): Save and
   restore layouts
+  ![language](https://img.shields.io/github/languages/top/klaxalk/i3-layout-manager) ![stars](https://img.shields.io/github/stars/klaxalk/i3-layout-manager?style=flat)
 - [i3-balance-workspace](https://github.com/atreyasha/i3-balance-workspace):
   resets split ratio of workspace or focused containers similar to emacs' `M-x
   balance-windows` or vim's `<c-w>=`
+  ![language](https://img.shields.io/github/languages/top/atreyasha/i3-balance-workspace) ![stars](https://img.shields.io/github/stars/atreyasha/i3-balance-workspace?style=flat)
 
 ### Workspace
 Tools that focus, move, or resize a workspace.
 
 - [i3empty](https://github.com/roguh/i3empty): open a new numbered workspace
   (also see i3-open-next-ws)
+  ![language](https://img.shields.io/github/languages/top/roguh/i3empty) ![stars](https://img.shields.io/github/stars/roguh/i3empty?style=flat)
 - [i3-renameworkspace](https://github.com/mh21/i3-renameworkspaces): Rename
   workspace to programs running in it
+  ![language](https://img.shields.io/github/languages/top/mh21/i3-renameworkspaces) ![stars](https://img.shields.io/github/stars/mh21/i3-renameworkspaces?style=flat)
 - [i3-workspace-rename](https://github.com/Syphdias/i3-workspace-rename): Rename
   and color workspace names (usage with rofi sensible)
+  ![language](https://img.shields.io/github/languages/top/Syphdias/i3-workspace-rename) ![stars](https://img.shields.io/github/stars/Syphdias/i3-workspace-rename?style=flat)
 - [i3-workspace-groups](https://github.com/infokiller/i3-workspace-groups):
   Collection of scripts to manage workspace groups
+  ![language](https://img.shields.io/github/languages/top/infokiller/i3-workspace-groups) ![stars](https://img.shields.io/github/stars/infokiller/i3-workspace-groups?style=flat)
 - [i3-ws-tool](https://github.com/jolange/i3-ws-tool): handle, manipulate, and
   modify workspaces
+  ![language](https://img.shields.io/github/languages/top/jolange/i3-ws-tool) ![stars](https://img.shields.io/github/stars/jolange/i3-ws-tool?style=flat)
 - [wsmgr-for-i3](https://github.com/stapelberg/wsmgr-for-i3): Go GTK3 program to
   manage workspaces
+  ![language](https://img.shields.io/github/languages/top/stapelberg/wsmgr-for-i3) ![stars](https://img.shields.io/github/stars/stapelberg/wsmgr-for-i3?style=flat)
 - [xfce4-i3-workspaces-plugin](https://github.com/denesb/xfce4-i3-workspaces-plugin):
   workspace switcher plugin for xfce4-panel
+  ![language](https://img.shields.io/github/languages/top/denesb/xfce4-i3-workspaces-plugin) ![stars](https://img.shields.io/github/stars/denesb/xfce4-i3-workspaces-plugin?style=flat)
 - [i3-wk-switch](https://github.com/tmfink/i3-wk-switch): switch workspace like
   xmonad
+  ![language](https://img.shields.io/github/languages/top/tmfink/i3-wk-switch) ![stars](https://img.shields.io/github/stars/tmfink/i3-wk-switch?style=flat)
 - [i3_workspaces](https://github.com/Chimrod/i3_workspaces): configure
   workspace, commands on focus (e.g. for custom background)
+  ![language](https://img.shields.io/github/languages/top/Chimrod/i3_workspaces) ![stars](https://img.shields.io/github/stars/Chimrod/i3_workspaces?style=flat)
 
 ### Container/Window
 Tools that focus, move, or resize a container/window.
 
 - [i3-open-next-ws](https://github.com/JohnDowson/i3-open-next-ws): Move window
   to the next empty workspace (also see i3empty)
+  ![language](https://img.shields.io/github/languages/top/JohnDowson/i3-open-next-ws) ![stars](https://img.shields.io/github/stars/JohnDowson/i3-open-next-ws?style=flat)
 - [i3gopher](https://github.com/quite/i3gopher): Focus last window
+  ![language](https://img.shields.io/github/languages/top/quite/i3gopher) ![stars](https://img.shields.io/github/stars/quite/i3gopher?style=flat)
 - [i3-valet](https://github.com/sophacles/i3-valet): Collection of tools for
   window, workspace, and output operations
+  ![language](https://img.shields.io/github/languages/top/sophacles/i3-valet) ![stars](https://img.shields.io/github/stars/sophacles/i3-valet?style=flat)
 - [i3-swap](https://github.com/Syphdias/i3-swap): Swap two containers (useful
   for switching main window with ones on the side)
+  ![language](https://img.shields.io/github/languages/top/Syphdias/i3-swap) ![stars](https://img.shields.io/github/stars/Syphdias/i3-swap?style=flat)
 - [i3-rofi-mark](https://github.com/talwrii/i3-rofi-mark): Mark and select
   windows
+  ![language](https://img.shields.io/github/languages/top/talwrii/i3-rofi-mark) ![stars](https://img.shields.io/github/stars/talwrii/i3-rofi-mark?style=flat)
 - [i3-automark](https://github.com/lincheney/i3-automark): Auto mark windows
+  ![language](https://img.shields.io/github/languages/top/lincheney/i3-automark) ![stars](https://img.shields.io/github/stars/lincheney/i3-automark?style=flat)
 - [wmfocus](https://github.com/svenstaro/wmfocus): Visually focus window by
   label
+  ![language](https://img.shields.io/github/languages/top/svenstaro/wmfocus) ![stars](https://img.shields.io/github/stars/svenstaro/wmfocus?style=flat)
 - [xfce4-i3-window-title-plugin](https://github.com/carmelopellegrino/xfce4-i3-window-title-plugin):
   i3wm-aware xfce4-panel plugin
+  ![language](https://img.shields.io/github/languages/top/carmelopellegrino/xfce4-i3-window-title-plugin) ![stars](https://img.shields.io/github/stars/carmelopellegrino/xfce4-i3-window-title-plugin?style=flat)
 
 ### Floating Windows
 Tools that focus, move, or resize a container/window in floating mode
@@ -170,10 +195,13 @@ What you put after `status_command` in `bar` block
   in colors
 - [scusage](https://github.com/tobi-wan-kenobi/scusage): summarizes shortcut
   usage, very useful to optimize keybinds
+  ![language](https://img.shields.io/github/languages/top/tobi-wan-kenobi/scusage) ![stars](https://img.shields.io/github/stars/tobi-wan-kenobi/scusage?style=flat)
 - [i3-workspace-brightness](https://github.com/orhun/i3-workspace-brightness):
   set individual brightness levels for each workspace
+  ![language](https://img.shields.io/github/languages/top/orhun/i3-workspace-brightness) ![stars](https://img.shields.io/github/stars/orhun/i3-workspace-brightness?style=flat)
 - [percentual-gaps](https://github.com/applejax124/percentual-gaps): set gaps to
   be percentual instead of fixed pixel values (changes config)
+  ![language](https://img.shields.io/github/languages/top/applejax124/percentual-gaps) ![stars](https://img.shields.io/github/stars/applejax124/percentual-gaps?style=flat)
 
 ### Showing keybinds
 
@@ -223,14 +251,20 @@ Not i3/sway specific but useful
   ![language](https://img.shields.io/github/languages/top/realestninja/i3-individual-workspace-actions) ![stars](https://img.shields.io/github/stars/realestninja/i3-individual-workspace-actions?style=flat)
 - [quickswitch-for-i3](https://github.com/OliverUv/quickswitch-for-i3): change
   and locate windows
+  ![language](https://img.shields.io/github/languages/top/OliverUv/quickswitch-for-i3) ![stars](https://img.shields.io/github/stars/OliverUv/quickswitch-for-i3?style=flat)
 - [alttab](https://github.com/sagb/alttab): minimalistic window switcher
+  ![language](https://img.shields.io/github/languages/top/sagb/alttab) ![stars](https://img.shields.io/github/stars/sagb/alttab?style=flat)
 - [i3-alt-tab.py](https://github.com/yoshimoto/i3-alt-tab.py): cycle through
   windows
+  ![language](https://img.shields.io/github/languages/top/yoshimoto/i3-alt-tab.py) ![stars](https://img.shields.io/github/stars/yoshimoto/i3-alt-tab.py?style=flat)
 - [i3-switch-tabs](https://github.com/nikola-kocic/i3-switch-tabs): cycle
   through tabbed windows
+  ![language](https://img.shields.io/github/languages/top/nikola-kocic/i3-switch-tabs) ![stars](https://img.shields.io/github/stars/nikola-kocic/i3-switch-tabs?style=flat)
 - [i3-easyfocus](https://github.com/cornerman/i3-easyfocus): focus and select
   windows by pressing a letter that labels the windows
+  ![language](https://img.shields.io/github/languages/top/cornerman/i3-easyfocus) ![stars](https://img.shields.io/github/stars/cornerman/i3-easyfocus?style=flat)
 - [i3-back](https://github.com/Cretezy/i3-back): Focus last focused window
+  ![language](https://img.shields.io/github/languages/top/Cretezy/i3-back) ![stars](https://img.shields.io/github/stars/Cretezy/i3-back?style=flat)
 
 
 ## Programs to use with i3
@@ -242,12 +276,17 @@ Programs that only lightly interact with i3
 - `xprop`: show attributes of window for example class to write window rules
 - [i3-volume](https://github.com/hastinbe/i3-volume): volume control with
   on-screen display notification
+  ![language](https://img.shields.io/github/languages/top/hastinbe/i3-volume) ![stars](https://img.shields.io/github/stars/hastinbe/i3-volume?style=flat)
 - [i3-autopause-screenkey](https://github.com/Syphdias/i3-autopause-screenkey):
   automatically start and stop screenkey to not leak information
+  ![language](https://img.shields.io/github/languages/top/Syphdias/i3-autopause-screenkey) ![stars](https://img.shields.io/github/stars/Syphdias/i3-autopause-screenkey?style=flat)
 - [i3b](https://github.com/DMBuce/i3b): Various tools
+  ![language](https://img.shields.io/github/languages/top/DMBuce/i3b) ![stars](https://img.shields.io/github/stars/DMBuce/i3b?style=flat)
 - [i3-tools](https://github.com/miseran/i3-tools): Various scripts
+  ![language](https://img.shields.io/github/languages/top/miseran/i3-tools) ![stars](https://img.shields.io/github/stars/miseran/i3-tools?style=flat)
 - [i3-extras](https://github.com/ashinkarov/i3-extras): Various tools and
   patches
+  ![language](https://img.shields.io/github/languages/top/ashinkarov/i3-extras) ![stars](https://img.shields.io/github/stars/ashinkarov/i3-extras?style=flat)
 
 
 ## Configuration Examples
@@ -273,9 +312,12 @@ that are broken but might still be useful for inspiration.
 - [j4-make-config](https://github.com/okraits/j4-make-config) (**archived**):
   Theme switcher. Can now be more easily achieved with [include
   directive](https://i3wm.org/docs/userguide.html#include).
+  ![language](https://img.shields.io/github/languages/top/okraits/j4-make-config) ![stars](https://img.shields.io/github/stars/okraits/j4-make-config?style=flat)
 - [autotiling-rs](https://github.com/ammgws/autotiling-rs): only sway, limited
   in functionality compared to nwg-piotr/autotiling
+  ![language](https://img.shields.io/github/languages/top/ammgws/autotiling-rs) ![stars](https://img.shields.io/github/stars/ammgws/autotiling-rs?style=flat)
 - [i3wl](https://github.com/carmelopellegrino/i3wl): window list applet (python2->broken)
+  ![language](https://img.shields.io/github/languages/top/carmelopellegrino/i3wl) ![stars](https://img.shields.io/github/stars/carmelopellegrino/i3wl?style=flat)
 
 
 ## Known Issues
