@@ -289,6 +289,9 @@ Programs that only lightly interact with i3
 - [i3-extras](https://github.com/ashinkarov/i3-extras): Various tools and
   patches
   ![language](https://img.shields.io/github/languages/top/ashinkarov/i3-extras) ![stars](https://img.shields.io/github/stars/ashinkarov/i3-extras?style=flat)
+- [i3ass](https://github.com/budlabs/i3ass): collection of shell scripts
+  to ease the use of i3wm
+  ![language](https://img.shields.io/github/languages/top/budlabs/i3ass) ![stars](https://img.shields.io/github/stars/budlabs/i3ass?style=flat)
 
 
 ## Configuration Examples
