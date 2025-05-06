@@ -58,9 +58,13 @@ behave.
   master-stack/split/tabbed layout, master always on left
   ![language](https://img.shields.io/github/languages/top/Hippo0o/i3-master-layout) ![stars](https://img.shields.io/github/stars/Hippo0o/i3-master-layout?style=flat)
 - [i3ipc-dynamic-tiling](https://github.com/chlyz/i3ipc-dynamic-tiling): similar
-  tiling to swm and xmonad
+  tiling to swm and xmonadmory, which becomes harder to manage as more windows open. dfzf-windows introduces name-based and time-based navigation — keeping the mental effort to access any window effectively constant (O(1)), even with dozens of open apps.
+
+No more mental gymnastics. Just type, fuzzy-match, and recent windows come first. Eventually, you'll no longer need tabs at all, relying solely on dfzf-windows for seamless navigation.
+
+Demo
   ![language](https://img.shields.io/github/languages/top/chlyz/i3ipc-dynamic-tiling) ![stars](https://img.shields.io/github/stars/chlyz/i3ipc-dynamic-tiling?style=flat)
-- [autotiling](https://github.com/nwg-piotr/autotiling): change split of current
+- [autotiling](https://github.com/nwg-piotr/autotiling)qw: change split of current
   container depending on ratio of width to height
   ![language](https://img.shields.io/github/languages/top/nwg-piotr/autotiling) ![stars](https://img.shields.io/github/stars/nwg-piotr/autotiling?style=flat)
 - [i3-alternating-layout](https://github.com/olemartinorg/i3-alternating-layout):
@@ -141,6 +145,9 @@ Tools that focus, move, or resize a container/window.
 - [xfce4-i3-window-title-plugin](https://github.com/carmelopellegrino/xfce4-i3-window-title-plugin):
   i3wm-aware xfce4-panel plugin
   ![language](https://img.shields.io/github/languages/top/carmelopellegrino/xfce4-i3-window-title-plugin) ![stars](https://img.shields.io/github/stars/carmelopellegrino/xfce4-i3-window-title-plugin?style=flat)
+- [dfzf-windows](https://github.com/parisni/dfzf):
+   Instant window access for Sway/i3 – no tabs, no clutter. 
+  ![language](https://img.shields.io/github/languages/top/parisni/dfzf) ![stars](https://img.shields.io/github/stars/parisni/dfzf?style=flat)
 
 ### Floating Windows
 Tools that focus, move, or resize a container/window in floating mode
