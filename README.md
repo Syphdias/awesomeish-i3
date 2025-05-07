@@ -141,6 +141,9 @@ Tools that focus, move, or resize a container/window.
 - [xfce4-i3-window-title-plugin](https://github.com/carmelopellegrino/xfce4-i3-window-title-plugin):
   i3wm-aware xfce4-panel plugin
   ![language](https://img.shields.io/github/languages/top/carmelopellegrino/xfce4-i3-window-title-plugin) ![stars](https://img.shields.io/github/stars/carmelopellegrino/xfce4-i3-window-title-plugin?style=flat)
+- [dfzf-windows](https://github.com/parisni/dfzf): Switch windows based on fzf
+  sorted by recency. Also includes some tools.
+  ![language](https://img.shields.io/github/languages/top/parisni/dfzf) ![stars](https://img.shields.io/github/stars/parisni/dfzf?style=flat)
 
 ### Floating Windows
 Tools that focus, move, or resize a container/window in floating mode
