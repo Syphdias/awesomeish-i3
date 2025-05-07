@@ -12,13 +12,12 @@ points in the Awesome Manifesto. I also did not go through [this long
 list](https://gist.github.com/budRich/23f8165ce1821edd4dc27f9fc3f820d6)
 
 This list is not (fully) vetted and I do not endorse ~any~ most of the tools. I
-did not test all of them. Tough I did use some of them — some even on a daily
+did not test all of them. Though I did use some of them — some even on a daily
 basis — some are even mine. If I found a tool that did not work, I did not
 include it in the list.
 
 If you find a new tool or find that a tool from the list is broken and
-unmaintained please open an issue or pull request.
-
+unmaintained, please open an issue or pull request.
 
 ## Information Fetcher
 Show/View some parts of i3.
